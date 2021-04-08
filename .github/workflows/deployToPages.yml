@@ -30,7 +30,7 @@ jobs:
         with:
           node-version: '12.x'
       - run: npm install
-      - run: npm run build:local
+      - run: npm run docs:build
 
       - name: Init new repo in dist folder and commit generated files
         run: |
