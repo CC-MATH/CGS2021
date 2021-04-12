@@ -10,9 +10,7 @@ module.exports = {
 
           '/AntipatronesComunes/':[''],
 
-          '/BeneficiosDespliegue/':[
-            ['BeneficiosDespliegue/', 'Beneficios del despliegue']
-          ],
+          '/BeneficiosDespliegue/':[''],
           
           '/PrincipiosDespliegue/':[''],
 
