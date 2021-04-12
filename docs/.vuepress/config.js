@@ -10,11 +10,13 @@ module.exports = {
 
           '/AntipatronesComunes/':[''],
 
-          '/BeneficiosDespliegue/':[''],
+          '/BeneficiosDespliegue/':[
+            ['BeneficiosDespliegue/', 'Beneficios del despliegue']
+          ],
           
           '/PrincipiosDespliegue/':[''],
 
-          '/GestionConfiguracion/':[
+          '/GestionDeLaConfiguracion/':[
             ['ControlVersiones/','Control de versiones'],
             ['Configuracion','...']
           ],
